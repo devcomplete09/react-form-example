@@ -1,0 +1,40 @@
+.container {
+  padding: 10px;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 5%;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+}
+
+.myFormText {
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 20px;
+  font-size: 16pt;
+}
+
+.myInput {
+  width: 95%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  display: block;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid lightsalmon;
+}
+
+.myButton {
+  background-color: lightseagreen;
+  border: none;
+  color: black;
+  padding: 7px;
+  margin: 0 auto;
+  width: 100%;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.myButton:hover {
+  background-color: seagreen;
+}
